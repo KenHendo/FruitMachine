@@ -48,7 +48,7 @@
             <span class="auto-style1">3 x Cherries = </span><span class="auto-style3">Your Bet x4</span><br class="auto-style1" />
             <span class="auto-style1">3 x 7&#39;s&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =&nbsp; </span><span class="auto-style3">Jackpot!</span><span class="auto-style1"> </span><span class="auto-style3">Your Bet x 100.</span></strong><br />
             <br />
-            However... if there are <strong>ANY BAR</strong>&#39;s - <span class="auto-style4">You Lose!</span><br />
+            However... if there are <strong>ANY BAR</strong>&#39;s - <span class="auto-style4">You Lose!!!!!!!!</span><br />
             <br />
             <br />
         </div>
