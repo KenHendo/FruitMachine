@@ -16,7 +16,7 @@ namespace Casino_Challenge
         {
             if (!Page.IsPostBack)
             {
-                //initialise player's starting funds and update displayed funds total
+                //initialise player's starting funds and update displayed funds total.
                 ViewState.Add("funds", 100);
                 UpdateFundsDisplay();
 
